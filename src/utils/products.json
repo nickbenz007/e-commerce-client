@@ -1,0 +1,129 @@
+{
+  "featured" : [
+    {
+      "title" : "Emma-Bar-Chair",
+      "image_url": "https://i.imgur.com/uB5RyY0.jpg",
+      "sub_image_url" : [
+        "https://i.imgur.com/riEezuT.jpg",
+        "https://i.imgur.com/2NMiwnR.jpg"
+      ],
+      "description" : "Emma's style chairs are well known for their quality and stability.",
+      "stockQuantity" : 400,
+      "price" : 24
+    },
+    {
+      "title" : "Sofia-Bar-Chair",
+      "image_url": "https://i.imgur.com/ugHfs9r.jpg",
+      "sub_image_url" : [
+        "https://i.imgur.com/ESwId78.jpg",
+        "https://i.imgur.com/b7OqPpj.jpg",
+        "https://i.imgur.com/ySrRJVr.jpg"
+      ],
+      "description" : "Sofia's style chairs are well known for their quality and stability.",
+      "stockQuantity" : 400,
+      "price" : 24
+    }
+  ],
+  "most_recent" : [
+    {
+      "title" : "Duke",
+      "image_url": "https://i.imgur.com/NMEqxQM.jpg",
+      "sub_image_url" : [
+        "https://i.imgur.com/NMEqxQM.jpg",
+        "https://i.imgur.com/mhGV6xR.jpg",
+        "https://i.imgur.com/Nx2ZxNl.jpg",
+        "https://i.imgur.com/31I3LMn.jpg"
+      ],
+      "description" : "The father of the descirption of all mothers and a Grand father",
+      "stockQuantity" : 30,
+      "price" : 399
+    },
+    {
+      "title" : "Duke",
+      "image_url": "https://i.imgur.com/NMEqxQM.jpg",
+      "sub_image_url" : [
+        "https://i.imgur.com/NMEqxQM.jpg",
+        "https://i.imgur.com/mhGV6xR.jpg",
+        "https://i.imgur.com/Nx2ZxNl.jpg",
+        "https://i.imgur.com/31I3LMn.jpg"
+      ],
+      "description" : "The father of the descirption of all mothers and a Grand father",
+      "stockQuantity" : 30,
+      "price" : 399
+    }
+  ],
+  "office_products" : [
+    {
+      "title" : "Office 1",
+      "image_url": "https://i.imgur.com/tBW3XwR.jpg",
+      "description" : "The father of the descirption of all mothers and a Grand father",
+      "stockQuantity" : 300,
+      "price" : 200
+    },
+    {
+      "title" : "Office 2",
+      "image_url": "https://i.imgur.com/I5pruAJ.jpg",
+      "description" : "The father of the descirption of all mothers and a Grand father",
+      "stockQuantity" : 200,
+      "price" : 500
+    }
+  ],
+  "showcase_products" : [
+    {
+      "title" : "Showcase 1",
+      "image_url": "https://i.imgur.com/XFONwSB.jpg",
+      "description" : "The father of the descirption of all mothers and a Grand father",
+      "stockQuantity" : 120,
+      "price" : 599
+    },
+    {
+      "title" : "Showcase 2",
+      "image_url": "https://i.imgur.com/mQ4CNyu.jpg",
+      "description" : "The father of the descirption of all mothers and a Grand father",
+      "stockQuantity" : 0,
+      "price" : 600
+    },
+    {
+      "title" : "Showcase 3",
+      "image_url": "https://i.imgur.com/R7hmK7m.jpg",
+      "description" : "The father of the descirption of all mothers and a Grand father",
+      "stockQuantity" : 500,
+      "price" : 240
+    },
+    {
+      "title" : "Showcase 4",
+      "image_url": "https://i.imgur.com/HUJLOZb.jpg",
+      "description" : "The father of the descirption of all mothers and a Grand father",
+      "stockQuantity" : 30,
+      "price" : 700
+    },
+    {
+      "title" : "Showcase 5",
+      "image_url": "https://i.imgur.com/emhaVI0.jpg",
+      "description" : "The father of the descirption of all mothers and a Grand father",
+      "stockQuantity" : 40,
+      "price" : 699
+    },
+    {
+      "title" : "Showcase 6",
+      "image_url": "https://i.imgur.com/k28zo4t.jpg",
+      "description" : "The father of the descirption of all mothers and a Grand father",
+      "stockQuantity" : 80,
+      "price" : 550
+    },
+    {
+      "title" : "Showcase 7",
+      "image_url": "https://i.imgur.com/0QkdvF3.jpg",
+      "description" : "The father of the descirption of all mothers and a Grand father",
+      "stockQuantity" : 90,
+      "price" : 660
+    }
+  ]
+}
+
+
+
+
+
+
+
